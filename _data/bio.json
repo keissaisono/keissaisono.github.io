@@ -32,6 +32,12 @@
       }
     ]
   },
+  "interests": [
+    { "name": "Project Management" },
+    { "name": "Account Management" },
+    { "name": "Artificial Intelligence" },
+    { "name": "Low Code Development" }
+  ],
   "skills": [
     {
       "name": "Microsoft Applications",
