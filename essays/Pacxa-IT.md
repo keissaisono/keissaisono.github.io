@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "How my Fellowship introduced me to IT?"
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-26
+date: 2023-08-27
 published: true
 labels:
   - Project Management
