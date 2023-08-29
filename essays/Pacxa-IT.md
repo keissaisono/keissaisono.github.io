@@ -11,6 +11,6 @@ labels:
   - Pacxa Fellowship
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
+<img width="100px" class="rounded float-start pe-4" src="../img/paxca.png">
 
 Insert essay here. This is where you will write about the label topics chosen above
