@@ -34,7 +34,10 @@
     { "name": "Project Management" },
     { "name": "Account Management" },
     { "name": "Artificial Intelligence" },
-    { "name": "Low Code Development" }
+    { "name": "Low Code Development" },
+    { "name": "Travel" },
+    { "name": "Fashion" },
+    { "name": "EDM" }
   ],
   "skills": [
     {
