@@ -1,0 +1,14 @@
+---
+layout: essay
+type: essay
+title: "E1: UI Basics Technical Essay"
+# All dates must be YYYY-MM-DD format!
+date: 2023-09-02
+published: true
+labels:
+  - HTML
+  - CSS
+  - Self Reflection
+---
+
+<img width="100px" class="rounded float-start pe-4" src="../img/WODs1.png">
