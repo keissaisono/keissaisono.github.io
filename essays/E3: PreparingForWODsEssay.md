@@ -10,7 +10,7 @@ labels:
   - SmartPhoneProducts1 with variables
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/WOD5.1.png">
+<img width="100px" class="rounded float-start pe-4" src="ITM352_REPO/images/WOD5.1.png">
 
 During the WOD 5 assignment, we dove  into the use of variables to improve the display of Smart Phone products in a web application. 
 The primary aim is to avoid hard-coding product information and enhance code maintainability. The process begins with duplicating SmartPhoneProducts1 and renaming it to SmartPhoneProducts1_variables. 
